@@ -104,7 +104,7 @@ If applicable, install package managers like pip (Python).
 ### Install pip (comes bundled with Python 3.4+)
 ```sh
 python -m ensurepip --upgrade
-
+```
 ## 6. Configure a Database (MySQL)
 Download and install MySQL database.
 
