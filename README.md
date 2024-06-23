@@ -105,8 +105,6 @@ If applicable, install package managers like pip (Python).
 ```sh
 python -m ensurepip --upgrade
 
-# Setup Instructions
-
 ## 6. Configure a Database (MySQL)
 Download and install MySQL database.
 
@@ -116,7 +114,6 @@ Download and install MySQL database.
 ### Set up MySQL
 Follow the installer instructions to set up the MySQL server and create a new database.
 
-# Setup Instructions
 
 ## 7. Set Up Development Environments and Virtualization (Optional)
 Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -126,8 +123,6 @@ Consider using virtualization tools like Docker or virtual machines to isolate p
 
 Set up Docker to manage your development environments.
 
-
-# Setup Instructions
 
 ## 8. Explore Extensions and Plugins
 Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
